@@ -58,7 +58,7 @@ jobs:
       
       - uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '6.0.x'
+          dotnet-version: '8.0.x'
 
       # Build Package Version Listing with Nuke
       - name: Build Package Version Listing
