@@ -1,14 +1,13 @@
 {
-  "name": "com.github.matzzteg.unityautosave",
-  "displayName": "Unity AutoSave by Matzzteg",
-  "version": "1.1.4",
+  "name": "com.c0d3m4513r.vrc.unityautosave",
+  "displayName": "Unity AutoSave",
+  "version": "1.1.5",
   "description": "Adding a must have for unity, called AutoSave",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
-    "name": "Matzzteg",
-    "email": "support@matzzteg.de",
-    "url": "https://shop.matzzteg.de"
+    "name": "C0D3 M4513R",
+    "url": "https://c0d3m4513r.com"
   },
   "legacyFolders": {},
   "legacyFiles": {},
